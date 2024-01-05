@@ -8,9 +8,7 @@ import {
   DiPython,
   DiGit,
 } from "react-icons/di";
-import {
-  SiPostgresql,
-} from "react-icons/si";
+
 
 function Techstack() {
   return (
@@ -34,9 +32,7 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiPostgresql />
-      </Col>
+
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
       </Col>

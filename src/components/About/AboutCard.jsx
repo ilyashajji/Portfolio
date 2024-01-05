@@ -8,12 +8,17 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">ILYAS HAJJI </span>
+            Hi Everyone, I am <span className="purple"> HAJJI ILYAS</span>
             from <span className="purple"> CASABLANCA,MOROCCO .</span>
             <br />
-            <p> I am a fullstack developer currently in my second year at the Office of Vocational Training and Job Promotion.<br/>
-              Enthusiastic about development, I am dedicated to my learning journey and always open to professional growth opportunities.
-               Strong communication and problem-solving skills complement my technical expertise.</p>
+            <p> I am a passionate Full Stack developer with 
+               a strong commitment to continuous learning and a proactive 
+               approach to professional development. My enthusiasm for 
+               development is accompanied by excellent communication and
+                problem-solving skills, essential soft skills that enhance 
+                my technical proficiency. I am eager to embrace new challenges 
+                and explore opportunities for personal and career growth..</p>
+               
                </p>
           <ul>
             <li className="about-activity">
